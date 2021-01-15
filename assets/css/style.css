@@ -607,12 +607,9 @@ section {
   color: #fff;
 }
 
-.services .icon:hover {
-  color: #149ddd;
-}
-
 .services .icon-box:hover .icon {
   background: #fff;
+  color: #149ddd;
 }
 
 .services .icon-box:hover .icon i {
